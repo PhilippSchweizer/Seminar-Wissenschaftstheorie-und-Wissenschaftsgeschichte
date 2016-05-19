@@ -52,7 +52,8 @@ Beide Ziele von jeweils Philosophie und Geschichte können nicht gleichzeitig ve
     - außerdem: das "Gesetzmodell" wie von Hempel u.a. für die naturwissenschaften formuliert. vier prämissen für wissenschaftliche theorien (?)
     - Dilthey
 
-- Wenn Sie Kuhn kritisieren wollen, müssen sie an den Zielen ansetzen, die er für gsch. und phil angibt.
+- Arthur: Wieso braucht der Wissenschaftshistoriker laut Kuhn keine Wissenschaftsphilosophie? Das kann er doch nicht ernsthaft meinen?!
+- Wenn Sie Kuhn kritisieren wollen, müssen sie an den Zielen ansetzen, die er jeweils für Geschichte und Philosophie angibt.
 - hist. Hintergrund: USA in den 50er und 60er jahren. keine Phänomenologie, keine Hermeneutik: vorherrschend sind analytische philosophie und pragmatismus.
 - das Raben-Paradox: wenn Sie einen allgemeinen Satz haben (alle Raben sind schwarz) und versuchen durch seine umkehrung zu beweisen: es gibt dinge die sind schwarz und nicht raben.
 - stimmt kuhns bild von der tätigkeit des philosophen?
