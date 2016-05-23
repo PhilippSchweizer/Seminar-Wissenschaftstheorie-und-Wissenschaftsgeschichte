@@ -1,5 +1,5 @@
 ---
-title: Seminar-Memo &raquo;Kuhns vorsichtigere Stellungnahme&laquo;, *Wissenschaftstheorie und Wissenschaftsgeschichte, 5. Sitzung 18.\,Mai\,2016*
+title: Seminar-Memo &raquo;Kuhns vorsichtigere Stellungnahme&laquo;, *Wissenschaftstheorie und Wissenschaftsgeschichte, 5. Sitzung 18. Mai 2016*
 author: Philipp Schweizer
 date: 2016-05-18
 lang: de-DE
@@ -10,7 +10,7 @@ header-includes:
 ---
 
 # Textgrundlage
-@kuhn1977
+@kuhn1977a
 
 # Thomas Kuhn
 James Conant, Alexandre Koyré
@@ -44,7 +44,6 @@ Beide Ziele von jeweils Philosophie und Geschichte können nicht gleichzeitig ve
 
 - sie brauchen sich gegenseitig: aber kein symetrisches verhältnis.
 - die wisshistoriker haben keinen nutzen von wth
-- 
 
 # Diskussion
 - Was hat es mit der "Ähnlichkeit" auf sich? (S. 17f.)
@@ -59,16 +58,6 @@ Beide Ziele von jeweils Philosophie und Geschichte können nicht gleichzeitig ve
 - stimmt kuhns bild von der tätigkeit des philosophen?
 - sellers: die geschichte der philosophie als die lingua franca der philosophie
 - kuhn tut so, als ob wir nicht in einer historischen tradition stünden... kuhn blendet die geschichtlickeit philosophischer positionen völlig aus.
-
-
-
-
-
-
-
-
-
-# Fragen
 
 
 # Bibliographie
