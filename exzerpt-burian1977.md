@@ -7,7 +7,9 @@ bibliography: ps&hs-updated.bib
 header-includes:
   - \usepackage[german=guillemets]{csquotes}
   - \usepackage{libertine}
+
 ---
+<!-- pandoc extensions needed for correct output are: -all_symbols_escapable (?); -fancy_lists (?); -subscript -->
 
 Exzerpierdatum (Beginn)
 
@@ -83,6 +85,7 @@ Abstract
 Zustand der Debatte: wie genau und bis zu welchem Grad sollen historische Untersuchungen die WPh beeinflussen?
 
 Dazu formuliert Burian drei Thesen: zwei methodologische und eine metamethodologische:
+
 1. Um den Fundiertheitsgrad theoretischer Behauptungen korrekt bestimmen zu können, muss oft (aber nicht immer?) Information über die zeitliche Abfolge herangezogen werden, in der Hypothesen vorgeschlagen, Theorien entwickelt und Experimente durchgeführt wurden.
 2. Weiterhin müssen (in der in These 1 formulierten Bestimmung des Fundiertheitsgrads) zusätzliche, namentlich historische Informationen darüber in Betracht gezogen werden, vor welchem Hintergrundwissen diese Entwicklungen stattgefunden haben.
 3. Historische Studien sollten eine wesentliche (essential) Rolle für Bewertung und Überprüfung gegenwärtiger philosophischer Meinungen über die Logik des Fundiertheitsgrads spielen.
@@ -114,13 +117,16 @@ Einen Vertreter des Historismus sieht Burian in @brush1974. Dieser benennt die H
 
 
 ## (i) Logicism (4--6)
-(Li)  
-(Lii) formuliert die Beiträge die für die Bewertung einer Theorie eines bestimmten Zeitpunkts gebraucht werden, dass sind...
-    (Liia) Erkenntnisse über die formale Struktur von Theorien
-    (Liib) angemessen aufgeschlüsselte (properly parsed) Aussagen über die gesamte relevante Beweislage verfügbar zu der entsprechenden Zeit sowie eine angemessen aufgeschlüsselte Aussage über die Theorie (Erklärung, Gesetzesaussage).
+
+(L)
+  (i)
+  (ii) formuliert die Beiträge die für die Bewertung einer Theorie eines bestimmten Zeitpunkts gebraucht werden, dass sind...
+    (a) Erkenntnisse über die formale Struktur von Theorien
+    (b) angemessen aufgeschlüsselte (properly parsed) Aussagen über die gesamte relevante Beweislage verfügbar zu der entsprechenden Zeit sowie eine angemessen aufgeschlüsselte Aussage über die Theorie (Erklärung, Gesetzesaussage).
 
 > "[This] encapsulation of the position [...] will serve us well as a vehicle for sharpening the contrast between historicism and logicism."
 
+Toulmin als ein Vertreter von (Lii)?
 
 
 ## (ii) Three Difficulties for Logicism (6--8)
@@ -193,20 +199,98 @@ Reicht es nicht, wenn die Philosophie, zur Untersuchung gegenwärtiger Wissensch
 
 
 # 3. Ambiguities of "Rationality": A Tool in Delimiting the Logicist Enterprise. (S. 12--21)
-Burian will in diesem Teil mit einigen Verwirrungen in der üblichen Auffassung von Logizismus aufräumen.
+Burian will in diesem Teil mit einigen Verwirrungen in der üblichen Auffassung von Logizismus aufräumen. Diese Klarstellung von "Rationalität", schätzt er selber als entscheidend für sein Argument ein: von dem richtigen Verständnis von Rationalität, bzw. davon dass Klarheit über die enterschiedlichen Bedeutungen dieses Begriffs besteht, hängt ab, ob sein Argument für die WG haltbar ist oder nicht.
 
 
 ## (i) "Rationality": An Accordian Term. Erste Dimension der Zweideutigkeit in der Verwendung des Rationalitätsbegriffs. (13--15)
+Burian wird vier Fälle "zielrelativer" (end-relative) Rationalität ultimativ (?) unterscheiden. Diese beinhalten (wenig überraschend) vier verschiedene, aber ineinandergreifende, Ziele, von denen ausgehend Handlungen und Methoden (policies) bewertet werden könnten.
+
 end-relative
 
   :   whether an action, policy, decision, or whatever, is considered rational wil depend on the end or goal in view with respect to which the action is assessed. (S. 13)
 
- 
+Frage: meint Burian, dass es weitere Arten von zielrelativer Rationalität gibt oder beansprucht er, sie alle erschöpfend erfassen zu können, mit seiner Matrix? 
+
+### Methodologische Verwendung von "rational"
+- Eine Handlung ist, alles in Betracht gezogen, rational, wenn sie ein erwünschtes Ziel bewirkt oder bewirken sollte.
+- Rationalität im weiten Sinne
+- Rationalität weithin eine Frage von Strategie und Taktik
+- Beispiel: Wissenschaftler sind vor die Wahl zwischen zwei Theorien T und T' gestellt.
+  + Burian merkt an, dass in der Beschreibung eines solchen Falls Begriffe wie "annehmen" (accept) oder "ablehnen" (reject) einer Theorie problematisch werden. Was heißt es, eine Theorie "anzunehmen"?
+  + Kritik/Fragen: können solche hochkonstruierten Beispiele helfen? Bzw.: man bekommt einen solchen Fall nur, wenn man ihn so konstruiert. Wie "objektiv" lässt sich das bewerkstelligen? Kann man nicht jeden Fall, den man so konstruieren kann, nicht auch anders konstruieren?
+  + Ist Burians Argument hier gefährdet? Er sagt ja nur: voila, hier habt ihr ein Verständnis von Rationalität. Seid euch dessen gewahr! Wenn ihr von Rationalität redet, dann sagt mir erst, ob ihr den Begriff vielleicht nicht so oder anders versteht.
+  + In seiner Diskussion des nächsten R-Gebrauchs wird das klar: im selben, eben konstruierten Fall, ist oft auch von "rational" in einem engeren Sinn die Rede...
+
+### Epistemologische Verwendung von "rational"
+- Eine Handlung ist zu dem Grad rational (oder nicht rational), wie sie ein erwünschtes Ziel erreicht hat (oder es verfehlt hat).
+- Rationalität in diesem Sinne war/ist von zentralem Interesse der Logizisten.
+- Einwand von Quinn: es handelt sich nicht um zwei Verwendungen von "rational" sondern nur um zwei unterschiedlich Ziele. Aber ist dieser Einwand nicht müßig? Es ist ja gerade der Witz an diesem Begriff, dass er "zielrelativ" ist und seine Bedeutung erst im Zusammenhang mit diesem Ziel entsteht. Man hat es  somit immer mit unterschiedlichen Verwendungen zu tun, wie Burian das zeigt.
+- Diskussion von Toulmins Argumenten für eine Unterscheidung von Logizität und Rationalität.
+  + insbesonder wichtig ist hier, dass Burian einen trügerischen Gegensatz vorwirft: den zwischen Temporalität und Logizität. Trügerisch deshalb, weil logische Bewertungen von Theorien bereits die Temporalität beinhalten.
+  + er sieht hier eine Uneinigkeit über die richtige Analyse von Rationalität im engen Sinne
 
 
 
 ## (ii) Prescription vs. Evaluation. Zweite Dimension der Zweideutigkeit in der Verwendung des Rationalitätsbegriffs. (15--20)
-S. 18   
+- Entscheidungskontexte (D-contexts) und Bewertungskontexte (E-contexts)
+
+### D-contexts (3. Verwendung/Fall von "rational"?) (15)
+- vorausschauende oder potentielle Fragen:
+  + sollten wir *T*~1~ oder *T*~2~ testen?
+  + sollte ich mich für einen Wandel der Prioritäten unseres Forschungsteams einsetzen?
+  + Sollten wir *T*~2~ als Hintergrundwissen für die Planung neuer Experimente behandeln?
+- in solchen Kontexten kann es notwendig werden, unter Nichtbeachtung von Information oder ohne die Möglichkeit der Gewinnung neuer Information, zu handeln.
+- der Standard für Rationalität ist in solchen Kontexten viel weniger stringent als in anderen.
+
+> It is, for example, often rational to expend considerable effort inquiring further into theories which it is by no means rational to accept on the available evidence
+
+### E-contexts (4. Verwendung/Fall von "rational") (16)
+- die betrachteten Probleme sind retrospektiv (beachte den Unterschied zu "werden retrospektiv betrachtet")
+-  Handlung, Methode oder Theorie von Interesse wird meist im Hinblick auf einen einzigen Wert (z.B. Wahrheitsgehalt) hin bewertet.
+-  die verfügbaren Beweise werden als geschlossen und vollständig behandelt.
+-  in E-contexts fallen Fokus der Forscher, deren Handlungen bewertet werden, und Fokus des Philosophen meist auseinander: der Philosoph konstruiert einen Bewertungskontext für ein Problem, das sich so nie gestellt hat, so nie existiert hat.
+  +  Wenn man es so formuliert, ist dann die Absurdität bzw. Belanglosikeit nicht sofort ersichtlich? Was kann damit jemals gezeigt werden? Für wen? Es bedürfte hier ein Beispiel, um zu zeigen, dass solche E-contexts tatsächlich konstruiert werden und welche Berechtigung sie möglicherweise haben.
+- Faktoren, die zur Strenge der Bewertungen in E-contexts beitragen:
+  + die (scheinbare/vorgebliche) Geschlossenheit der Beweislage. Das erlaubt es dem Philosoph, mögliche Nebeneffekte zu ignorieren.
+  + die Freiheit Betrachtungen zu ignorieren die für den Bewertungsmaßstab irrelevant sind ("the freedom to ignore considerations irrelevant to the value in terms of which the evaluation is carried out")
+  + die Freiheit von "externen" Beschränkungen und Motivationen der beteiligten Agenten zu abstrahieren.
+
+Galileo Beispiel. Soll eine Komplikation von E-contexts im Falle von doppelperspektivischen Fällen zeigen...   
+
+Galileo fragt:
+- Should I treat the unresolved dynamical problems facing heliocentrism as if they will not provide insuperable obstacles for that theory?
+- Is helocentrism better supported on the available evidence than geocentrism?
+
+Wir fragen:
+- War Heliozentrismus oder Geozentrismus besser fundiert?
+  + unterschiedliche Antworten abhängig davon, ob wir unsere Kriiterien für gute Fundiertheit oder Galileos anbringen.
+- Wie bewerten wir Galileos Entscheidung?
+  + ist keine D-context Frage mehr wie urprünglich für Galileo. Wenn wir diese Frage stellen, arbeiten wir in einem E-context.
+  + Die Bewertung wird entweder entlang unserer Kriterien oder entlang der Kriterien (bzw. einer begrenzten Teilmenge der Kriterien) von Galileo *wie wir sie rekonstruiert haben*.
+
+Wir können also in Bezug auf Galileo immer nur in einem E-context arbeiten, aber innerhalb davon, gilt es die Art der Kriterien (unsere vs. unsere Rekonstruktionen) sauber zu trennen.
+
+S. 17, 1. Absatz, Die Bedeutung von Bewertungen für Entscheidungen (E-contexts beeinflussen D-contexts)
+- in eine Entscheidung (in diesem Falle Galileos) fließen Bewertungen mit ein.
+- Entscheidungen beschränken sich auf ausgewählte Probleme
+- aber, auch wenn Bewertungen in ihnen eine Rolle spielen, bleiben es Entscheidungskontexte für den Handelnden (Galileo) und wir können ihn nicht für Informationen oder Entscheidungskriterien verantwortlich machen, die erst nach ihm bzw. seiner Handlung verfügbar waren.
+
+Die D- & E-Unterscheidung ist hilfreicher als die traditionelle Unterscheidung zwischen Kontexten der Entdeckung und solchen der Rechtfertigung. Sie gibt dem Philosoph die Möglichkeit, eine Erklärung der Gründe für die unterschiedliche Gewichtung von Betrachtungen anzugeben. Je nach Kontext, indem diese Betrachtungen bewertet werden, wird diese unterschiedliche Ergebnisse liefern. Das heißt, der Philosoph kann so unterschiedliche Bewertungs-Ergebnisse rechtfertigen, bzw. überhaupt erst anstellen, ohne in Widerspruch zu geraten.
+
+In den Kontexten kommen zwei Typen von Normen vor:
+- preskreptive Normen (D-context)
+- evaluative Normen (E-context)
+
+### Die Forschungs-/Bewertungsmatrix (S. 18)
+Fragen
+- Was heißt es, dass philosophische Bewertung in diesen vier Kontexten geeignet/sachdienlich (pertinent) ist?
+- Stellt diese Matrix vier Kontexte wissenschaftlicher Problemstellungen dar?
+- Handelt es sich um vier philosophisch konstruierte (namentlich von Burian) Kontexte, in denen Probleme von Wissenschaftlern formuliert werden können?
+- Auf welcher Ebene befinden wir uns hier?
+- In welchem Verhältnis stehen diese vier Kontexte zur Wirklichkeit der Wissenschaft?
+- Anders gesagt: jeder Kontext fängt mit "The study and application of..." an. Wer erforscht und wendet hier an? Der Philosoph oder der Wissenschaftler? Oder beide? Der Wissenschaftler als Philosoph und umgekehrt?
+- Liege ich richtig in der Annahme, dass der Philosoph in allen diesen Kontexten etwas bewerten will, nämlich (1) Kriterien der Bewertung und (2) Kriterien der Wahl?  
+
 Vier komplex zusammenhängende Kontexte geeigneter philosophischer Beurteilungen:
 - EE, aim (S. 19): to estimate the truth content of claims as revealed by the available evidence
 - EM, aim: to estimate the scientific utility of claims and procedures as revealed by their track record in use
