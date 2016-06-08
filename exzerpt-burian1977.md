@@ -42,31 +42,9 @@ Abkürzungen
 
 Abstract
 
-  :   
+  :   Burian will zeigen, dass sich philosophische Darstellungen des Unterstützungsgrads verbessern lassen, wenn historische Forschung in diese implementiert wird. Die philosophische Aufgabe lässt sich nicht ahistorisch lösen.
 
 
-<!-- MarkdownTOC -->
-
-- Intro
-- 1. Logicism and Historicism: Two Opposed Ideal Types of Philosophical Reaction to Historical Considerations. \(3--11\)
-  - \(i\) Logicism \(4--6\)
-  - \(ii\) Three Difficulties for Logicism \(6--8\)
-  - \(iii\) Historicism \(8--11\)
-- 2. The Place of History of Science: A Negative Preliminary Assessment. \(S. 11--12\)
-- 3. Ambiguities of "Rationality": A Tool in Delimiting the Logicist Enterprise. \(S. 12--21\)
-  - \(i\) "Rationality": An Accordian Term. Erste Dimension der Zweideutigkeit in der Verwendung des Rationalitätsbegriffs. \(13--15\)
-  - \(ii\) Prescription vs. Evaluation. Zweite Dimension der Zweideutigkeit in der Verwendung des Rationalitätsbegriffs. \(15--20\)
-  - \(iii\) Difficulties in the Ongoing Debate \(20--21\)
-- 4. On What Does Theory Support Depend? \(22--27\)
-- 5. The Place of History of Science: A Reassessment. \(27--38\)
-  - First Problem-Set \(28--31\)
-  - Second Problem-Set \(31--34\)
-  - Third Problem-Set \(34--38\)
-- Conclusion \(38--40\)
-- Begriffe die zentral sind und ihre deutsche Entsprechung
-- Bibliographie
-
-<!-- /MarkdownTOC -->
 
 
 
@@ -110,7 +88,7 @@ Dazu formuliert Burian drei Thesen: zwei methodologische und eine metamethodolog
 
 # 1. Logicism and Historicism: Two Opposed Ideal Types of Philosophical Reaction to Historical Considerations. (3--11)
 S. 3   
-Burian spitzt hier zwei Strömungen innerhalb der PS zu: Logizismus und Historismus.
+Burian spitzt hier zwei Strömungen (innerhalb der PS?) zu: Logizismus und Historismus.
 
 Einen Vertreter des Historismus sieht Burian in @brush1974. Dieser benennt die Herausforderungen die aus der WG für die WPh entstehen: ist Wissenschaft wirklich wahrheits-suchend (truth-seeking)? Sind Wissenschaftler und wissenschaftliche Institutionen unbefangen und objektiv? Wie steht es um die logische Stringenz (logical rigor) von (historisch) ausschlaggebender Argumentation?
 
@@ -199,7 +177,7 @@ Reicht es nicht, wenn die Philosophie, zur Untersuchung gegenwärtiger Wissensch
 
 
 # 3. Ambiguities of "Rationality": A Tool in Delimiting the Logicist Enterprise. (S. 12--21)
-Burian will in diesem Teil mit einigen Verwirrungen in der üblichen Auffassung von Logizismus aufräumen. Diese Klarstellung von "Rationalität", schätzt er selber als entscheidend für sein Argument ein: von dem richtigen Verständnis von Rationalität, bzw. davon dass Klarheit über die enterschiedlichen Bedeutungen dieses Begriffs besteht, hängt ab, ob sein Argument für die WG haltbar ist oder nicht.
+Burian will in diesem Teil mit einigen Verwirrungen in der üblichen Auffassung von Logizismus aufräumen. Diese Klarstellung von "Rationalität", schätzt er selber als entscheidend für sein Argument ein: von dem richtigen Verständnis von Rationalität, bzw. davon dass Klarheit über die unterschiedlichen Bedeutungen dieses Begriffs besteht, hängt ab, ob sein Argument für die WG haltbar ist oder nicht.
 
 
 ## (i) "Rationality": An Accordian Term. Erste Dimension der Zweideutigkeit in der Verwendung des Rationalitätsbegriffs. (13--15)
@@ -245,64 +223,99 @@ Frage: meint Burian, dass es weitere Arten von zielrelativer Rationalität gibt 
 > It is, for example, often rational to expend considerable effort inquiring further into theories which it is by no means rational to accept on the available evidence
 
 ### E-contexts (4. Verwendung/Fall von "rational") (16)
+
 - die betrachteten Probleme sind retrospektiv (beachte den Unterschied zu "werden retrospektiv betrachtet")
--  Handlung, Methode oder Theorie von Interesse wird meist im Hinblick auf einen einzigen Wert (z.B. Wahrheitsgehalt) hin bewertet.
--  die verfügbaren Beweise werden als geschlossen und vollständig behandelt.
--  in E-contexts fallen Fokus der Forscher, deren Handlungen bewertet werden, und Fokus des Philosophen meist auseinander: der Philosoph konstruiert einen Bewertungskontext für ein Problem, das sich so nie gestellt hat, so nie existiert hat.
-  +  Wenn man es so formuliert, ist dann die Absurdität bzw. Belanglosikeit nicht sofort ersichtlich? Was kann damit jemals gezeigt werden? Für wen? Es bedürfte hier ein Beispiel, um zu zeigen, dass solche E-contexts tatsächlich konstruiert werden und welche Berechtigung sie möglicherweise haben.
+- Handlung, Methode oder Theorie von Interesse wird meist im Hinblick auf einen einzigen Wert (z.B. Wahrheitsgehalt) hin bewertet.
+- die verfügbaren Beweise werden als geschlossen und vollständig behandelt.
+- in E-contexts fallen Fokus der Forscher, deren Handlungen bewertet werden, und Fokus des Philosophen meist auseinander: der Philosoph konstruiert einen Bewertungskontext für ein Problem, das sich so nie gestellt hat, so nie existiert hat.
+    + Wenn man es so formuliert, ist dann die Absurdität bzw. Belanglosikeit nicht sofort ersichtlich? Was kann damit jemals gezeigt werden? Für wen? Es bedürfte hier ein Beispiel, um zu zeigen, dass solche E-contexts tatsächlich konstruiert werden und welche Berechtigung sie möglicherweise haben.
 - Faktoren, die zur Strenge der Bewertungen in E-contexts beitragen:
-  + die (scheinbare/vorgebliche) Geschlossenheit der Beweislage. Das erlaubt es dem Philosoph, mögliche Nebeneffekte zu ignorieren.
-  + die Freiheit Betrachtungen zu ignorieren die für den Bewertungsmaßstab irrelevant sind ("the freedom to ignore considerations irrelevant to the value in terms of which the evaluation is carried out")
-  + die Freiheit von "externen" Beschränkungen und Motivationen der beteiligten Agenten zu abstrahieren.
+    + die (scheinbare/vorgebliche) Geschlossenheit der Beweislage. Das erlaubt es dem Philosoph, mögliche Nebeneffekte zu ignorieren.
+    + die Freiheit Betrachtungen zu ignorieren die für den Bewertungsmaßstab irrelevant sind ("the freedom to ignore considerations irrelevant to the value in terms of which the evaluation is carried out")
+    + die Freiheit von "externen" Beschränkungen und Motivationen der beteiligten Agenten zu abstrahieren.
 
 Galileo Beispiel. Soll eine Komplikation von E-contexts im Falle von doppelperspektivischen Fällen zeigen...   
 
 Galileo fragt:
+
 - Should I treat the unresolved dynamical problems facing heliocentrism as if they will not provide insuperable obstacles for that theory?
 - Is helocentrism better supported on the available evidence than geocentrism?
 
 Wir fragen:
+
 - War Heliozentrismus oder Geozentrismus besser fundiert?
-  + unterschiedliche Antworten abhängig davon, ob wir unsere Kriiterien für gute Fundiertheit oder Galileos anbringen.
+    + unterschiedliche Antworten abhängig davon, ob wir unsere Kriiterien für gute Fundiertheit oder Galileos anbringen.
 - Wie bewerten wir Galileos Entscheidung?
-  + ist keine D-context Frage mehr wie urprünglich für Galileo. Wenn wir diese Frage stellen, arbeiten wir in einem E-context.
-  + Die Bewertung wird entweder entlang unserer Kriterien oder entlang der Kriterien (bzw. einer begrenzten Teilmenge der Kriterien) von Galileo *wie wir sie rekonstruiert haben*.
+    + ist keine D-context Frage mehr wie urprünglich für Galileo. Wenn wir diese Frage stellen, arbeiten wir in einem E-context.
+    + Die Bewertung wird entweder entlang unserer Kriterien oder entlang der Kriterien (bzw. einer begrenzten Teilmenge der Kriterien) von Galileo *wie wir sie rekonstruiert haben*.
 
 Wir können also in Bezug auf Galileo immer nur in einem E-context arbeiten, aber innerhalb davon, gilt es die Art der Kriterien (unsere vs. unsere Rekonstruktionen) sauber zu trennen.
 
 S. 17, 1. Absatz, Die Bedeutung von Bewertungen für Entscheidungen (E-contexts beeinflussen D-contexts)
+
 - in eine Entscheidung (in diesem Falle Galileos) fließen Bewertungen mit ein.
 - Entscheidungen beschränken sich auf ausgewählte Probleme
 - aber, auch wenn Bewertungen in ihnen eine Rolle spielen, bleiben es Entscheidungskontexte für den Handelnden (Galileo) und wir können ihn nicht für Informationen oder Entscheidungskriterien verantwortlich machen, die erst nach ihm bzw. seiner Handlung verfügbar waren.
 
 Die D- & E-Unterscheidung ist hilfreicher als die traditionelle Unterscheidung zwischen Kontexten der Entdeckung und solchen der Rechtfertigung. Sie gibt dem Philosoph die Möglichkeit, eine Erklärung der Gründe für die unterschiedliche Gewichtung von Betrachtungen anzugeben. Je nach Kontext, indem diese Betrachtungen bewertet werden, wird diese unterschiedliche Ergebnisse liefern. Das heißt, der Philosoph kann so unterschiedliche Bewertungs-Ergebnisse rechtfertigen, bzw. überhaupt erst anstellen, ohne in Widerspruch zu geraten.
 
-In den Kontexten kommen zwei Typen von Normen vor:
+In den Kontexten kommen zwei Typen von Normen vor:  
 - preskreptive Normen (D-context)
 - evaluative Normen (E-context)
 
 ### Die Forschungs-/Bewertungsmatrix (S. 18)
-Fragen
+
 - Was heißt es, dass philosophische Bewertung in diesen vier Kontexten geeignet/sachdienlich (pertinent) ist?
 - Stellt diese Matrix vier Kontexte wissenschaftlicher Problemstellungen dar?
 - Handelt es sich um vier philosophisch konstruierte (namentlich von Burian) Kontexte, in denen Probleme von Wissenschaftlern formuliert werden können?
 - Auf welcher Ebene befinden wir uns hier?
+- sind in der Matrix vier Formen philosophischer Bewertung, oder vier Kontexte, in denen philosophische Bewertung stattfindet? Und wenn letzteres: wie muss man sich das vorstellen?
+- Kann man sagen: vier Kontexte für den Philosophen, sich ergebend aus vier Unterfangen (*enterprise*) des Wissenschaftlers?
 - In welchem Verhältnis stehen diese vier Kontexte zur Wirklichkeit der Wissenschaft?
 - Anders gesagt: jeder Kontext fängt mit "The study and application of..." an. Wer erforscht und wendet hier an? Der Philosoph oder der Wissenschaftler? Oder beide? Der Wissenschaftler als Philosoph und umgekehrt?
-- Liege ich richtig in der Annahme, dass der Philosoph in allen diesen Kontexten etwas bewerten will, nämlich (1) Kriterien der Bewertung und (2) Kriterien der Wahl?  
+- Liege ich richtig in der Annahme, dass der Philosoph in allen diesen Kontexten etwas bewerten will, nämlich (1) in den Kontexten EE und EM Kriterien der Bewertung und (2) für PE und PM Kriterien der Wahl?
+- Einen P-Kontext kann es für den Philosoph nicht geben, außer als Gegenstand einer Bewertung die er (in einem E-Kontext) vornimmt?
+- Der Philosoph hat es mit der Einschätzung/Bewertung von Rationalität in den genannten Kontexten zu tun.
 
-Vier komplex zusammenhängende Kontexte geeigneter philosophischer Beurteilungen:
+Vier komplex zusammenhängende Kontexte geeigneter philosophischer Beurteilungen. Diese vier Kontexte beschreiben gleichzeitig (?) vier verschiedene wissenschaftliche Unterfangen, die entsprechend vier unterschiedliche Ziele haben:
+
 - EE, aim (S. 19): to estimate the truth content of claims as revealed by the available evidence
 - EM, aim: to estimate the scientific utility of claims and procedures as revealed by their track record in use
 - PE, aim: to determine how to maximize the rate at which the truth content of our knowledge increases
 - PM, aim: to determine how to maximize the rate at which the scientific utility of our procedures, theories, etc. increases
 
- Punchline: wenn der Philosoph oder der Wissenschaftler von "rational" sprechen, sind ganz unterschiedliche Dinge gemeint. Je nach Kontext, gewinnt die "rational" eine andere Bedeutung.
+Diese Ziele sind vom Wissenschaftler formuliert und werden vom Philosoph bewertet: für den Philosoph ergibt sich dann aber, wenn ich es richtig verstehe, jedes mal ein E-context. Auch wenn er sich zum Beispiel mit dem Ziel von PM, als einem D-context eines Wissenschaftlers, beschäftigt, arbeitet er in einem E-context. Wenn der Philosoph *entscheiden* soll, wie sich der Wissenschaftler *entscheiden* sollte oder hätte sollen, dann ist eigentlich gemeint, dass der Philosoph über die Entscheidung des Wissenschaftlers *urteilt*. Kann es für den Philosoph also überhaupt einen D-context geben, ohne dass er aufhört, Philosoph zu sein? (Und wenn nein: wäre das ein Problem für Burians Argument?)
+
+Vier Frage-Sets (S. 19--20)
+Inwiefern fallen hier die Fragen von Philosoph und Wissenschaftler zusammen, sind sie identisch? Gibt es solche Fälle und wenn ja, handelt es sich um Identität oder bloß scheinbare Identität? Beispiel:
+
+> "*PE*: Given the evidence available up to *t*~0~, what schuld one do with *T* in order to test it or in order to maximize the rational credibility of one's ensuing beliefs?" (S. 19)
+
+Punchline: wenn der Philosoph oder der Wissenschaftler von "rational" sprechen, sind, je nach Kontext, ganz unterschiedliche Bewertungsmaßstäbe/Ziele zugrunde gelegt:
+
+> Yet, clearly, the claim that it is rational to accept *T* comes to something different in each case. (S. 20)
+
 
 Was ist von Burians Matrix zu halten? Wie dialektisch/undialektisch ist sie? Ist sie erschöpfend?
 
-## (iii) Difficulties in the Ongoing Debate (20--21)
 
+
+
+
+## (iii) Difficulties in the Ongoing Debate (20--21)
+- Logizistien beschäftigen sich hauptsächlich mit *EE*, d.i. sie betreiben in erster Linie eine evaluative Epistemologie.
+- in ihrer empiristisch-epistemologischen Tradition wird die Genese einer Theorie als irrelevant für die epistemische Bewertung der Theorie als fertiges Produkt angesehen
+- nur logische und semantische Beziehungen zwischen Beweisaussagen und theoretischen Aussagen haben epistemisches Gewicht
+- diese beiden epistemischen Ansprüche werden von @musgrave1974 bestritten, was die (zur Zeit Burians) laufende Debatte auf drei Weisen verkomplizieren wird:
+  1. suspect *ab initio*: Für Philosophen, die die historizistischen Thesen Burians unterschreiben, werden logizisitische Ansätze, die Fallstudien explizit unter Absehung von genetischen und zeitlichen Aspekten rekonstruieren, von vorneherein verdächtig. 
+  2. Differenzen über
+    1. einen angemessenen Umgang mit historischen Überlieferungen
+    2. die Informationen die für eine epistemologische Bewertung relevant sind
+    3. für welche Verwendung (oder Nutzen?) die Rekonstruktion formuliert werden soll
+
+> Confusion of this sort is especially likely since the logicist will tend to reject all attacks on his views that draw on the temporal order of events as misconceiving his enterprise. (S. 21)
+
+  3. "Ausstrahlungs-" Effekt oder Gefahr: die Philosophen sollten den Zweck ihrer Argumente klarmachen und dabei kann ihnen die Matrix helfen.
 
 
 
@@ -321,6 +334,25 @@ Was ist von Burians Matrix zu halten? Wie dialektisch/undialektisch ist sie? Ist
 # 4. On What Does Theory Support Depend? (22--27)
 > "the variety of factors considered by philosophers to be relevant to the 'suport', 'justification', or 'confirmation' of theories and theoretical claims." (S. 2)
 
+> "[...] a very brief glance at the contemporary debate over confirmation, corroboration, and support. [...] my primary sources for this discussion are the (often logically naive) writings of historically oriented philosophers rather than those of inductive logicians." (S. 22)
+
+Eine Diskussion der von Philosophen als relevant betrachteten Faktoren für Fundiertheit, Rechtfertigung oder Bestätigung von Theorien führt Burian zu einem eigenen Set solcher Faktoren bzw. Variablen.
+
+Mit dieser Formalisierung hofft Burian zeigen zu können, dass man eine Theorie [^historisch?] nicht ohne historische Überlegungen bewerten kann.
+
+[^historisch?]: Jede Theorie, oder nur historische Theorien? Ist jede Theorie nicht bereits historisch? Sieht Burian dass auch so? Der Philosoph ist an allgemeinen, notwendigen, zeitlosen (?), Erkenntnissen über Wissenschaft interessiert, sagen die Logizisiten. Burian meint nun: selbst wenn es soetwas geben sollte, dann findet ihr es nur, wenn ihr historisch denkt.
+
+Burian will zeigen, dass die Kriterien ...
+
+*S~T,e,t~* = "the degree of support for theory *T* on evidence *e* at time *t*" = vereinfachend: Unterstützungsgrad
+
+S. 23f. werden Feyerabend und Kuhn diskutiert: Personenabhäginge und paradigma-abhängige Kriterien
+
+S. 24f. diskutiert Burian @zahar1973, dessen Position er mit folgenden Worten zusammenfasst: "the degree of support which a theory is awarded should depend on its success in accounting for 'novel facts'." (S. 24) Diesen Vorschlag könne man auf zwei Arten verstehen...
+
+S. 25
+
+*T`*`(t)* = the best of the competing theories available at *t*
 
 
 
@@ -339,8 +371,16 @@ Was ist von Burians Matrix zu halten? Wie dialektisch/undialektisch ist sie? Ist
 
 
 # 5. The Place of History of Science: A Reassessment. (27--38)
+Burian will die Funktion historischer Forschung für die Verbesserung philosophischer Erklärungen der Logik des Fundiertheitsgrads angeben. Dazu betrachtet er drei Problem-Sets. 
+
 ## First Problem-Set (28--31)
-> *Problem*: Which rational reconstruction(s) of a specific theory, explanation, or confirmatory argument should a philosopher use?
+> "*Problem*: Which rational reconstruction(s) of a specific theory, explanation, or confirmatory argument should a philosopher use?" (S. 28) Und man könnte die Frage hinzufügen "[H]ow does one evaluate rational reconstructions in light of the criterion of resemblance?" (S. 30)
+
+- an immense amount of background agreement must be forged before the criterion of resemblance can be called into play to resolve the dispute. (S. 31)
+
+
+
+Fazit: In der Beziehung zwischen Weil die Erklärung dem zu Erkärenden ähneln sollte, kommt der Philosoph nicht um 
 
 ## Second Problem-Set (31--34)
 
@@ -348,6 +388,12 @@ Was ist von Burians Matrix zu halten? Wie dialektisch/undialektisch ist sie? Ist
 
 
 
+# Rehearsal (8. Juni 2016)
+Burian und Giere. Giere: theorien als historische entitäteten aber wir brauchen nicht den historiker.
+burian: doppelter punkt ... "naivität des textbuch-verfahrens" "textbücher enthalten häufig mythen" 
+probleme bei burian: these der temporalität. begründet er diese wirklich? 
+Kritik: zu abstrakt, es bräuchte einleuchtende Beispiele um zum Beispiel das vierer-schema (matrix) zur anwendung zu bringen. Welche art von paramtern von theorien soll man einbeziehen? aber das endet dann in der aussage: man muss ab und zu in messy historische betrachtungen einsteigen.
+was angemessen ist (wieviel geschichte) muss im konkreten fall entschieden werden.
 
 
 
@@ -404,6 +450,14 @@ degree of support (dos)
 logic of support
 
   :
+
+
+
+
+
+# Rehearsal von Sitzung 25. Mai
+Was waren die wichtigsten Punkte... Burians Hauptziel: Rationalität als Bewertungskriterium gar nicht so sinnvoll. Evaluation vs. Entscheidung.
+
 
 
 # Bibliographie

@@ -59,5 +59,11 @@ Beide Ziele von jeweils Philosophie und Geschichte können nicht gleichzeitig ve
 - sellers: die geschichte der philosophie als die lingua franca der philosophie
 - kuhn tut so, als ob wir nicht in einer historischen tradition stünden... kuhn blendet die geschichtlickeit philosophischer positionen völlig aus.
 
+# Nachtrag 25.05.2016
+- Kein Nutzen der WPh für WG   
+- Nutzen von WG für WPh: historische Präzision bewahrt vor dem anachronisitischen Fehlschluss
+- Theorien-Holismus: Theorien epist. adäquat bewerten heißt ihren Verlauf erfassen zu müssen
+- eine Abwendung Kuhns von Thesen in seinem *Die Struktur wissenschaftlicher Revolutionen*
+- Kritik an Kuhn: problematisch wie er das Ziel der (analytischen) Philosophie beurteilt. Auch diese hat historische Bezugspunkte. Man kann auch die Philosophie in ihrer historischen Entwicklung betrachten
 
 # Bibliographie
