@@ -1,0 +1,130 @@
+\documentclass[ngerman,12pt, titlepage, smallheadings, nomath]{scrartcl}
+\usepackage[]{libertine}
+\usepackage[german=guillemets]{csquotes}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \usepackage{fontspec}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Not Givens},
+            pdfauthor={Philipp Schweizer},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[shorthands=off,main=ngerman]{babel}
+\else
+  \usepackage{polyglossia}
+  \setmainlanguage[]{german}
+\fi
+\usepackage{biblatex}
+
+\addbibresource{hps.bib}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\usepackage[width=14cm, height=23cm]{geometry}
+\usepackage[doublespacing]{setspace}
+\usepackage[JT-Typography]{titlepage}
+\setlength\parindent{1.5em}
+
+\title{Not Givens}
+\providecommand{\subtitle}[1]{}
+\subtitle{bla bla bla}
+\author{Philipp Schweizer}
+\publisher{Essay im Seminar »Zur ›Ehe‹ von Wissenschaftstheorie und
+Wissenschaftsgeschichte« von Prof.~Dr.~Thomas Sturm}
+\place{Goethe-Universität Frankfurt / Main \newline Institut für Philosophie
+\newline \vspace{-0.5em} \newline}
+\date{SoSe 2016}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{3}
+\tableofcontents
+}
+\newpage
+
+\section{Einleitung}\label{einleitung}
+
+\vspace{-1.25em}
+
+ddd dd
+
+\section{------------------ Teil I ------------------}\label{teil-i}
+
+\vspace{-1.25em}
+
+dddd
+
+\textcite{gedo1979}
+
+\section{------------------ Teil II ------------------}\label{teil-ii}
+
+\vspace{-1.25em}
+
+\section{------------------ Teil III ------------------}\label{teil-iii}
+
+\vspace{-1.25em}
+
+\section{------------------ Fazit ------------------}\label{fazit}
+
+\vspace{-1.25em}
+
+\section*{Bibliographie}\label{bibliographie}
+\addcontentsline{toc}{section}{Bibliographie}
+
+\vspace{-1em}
+
+\indent
+\vspace{-2em} \begingroup
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \singlespacing
+
+\printbibliography
+
+\endgroup
+\newpage
+
+\section*{Eigenständigkeitserklärung}\label{eigenstuxe4ndigkeitserkluxe4rung}
+\addcontentsline{toc}{section}{Eigenständigkeitserklärung}
+
+Hiermit erkläre ich, dass ich die vorliegende Arbeit
+\emph{--------------------} selbständig verfasst und keine anderen als
+die angegebenen Hilfsmittel benutzt habe. Sie wurde im SoSe 2016 als
+Prüfungsleitung in der Veranstaltung »Zur ›Ehe‹ von Wissenschaftstheorie
+und Wissenschaftsgeschichte« von Prof.~Dr.~Thomas Sturm erstellt. Die
+Stellen der Arbeit, die anderen Quellen im Wortlaut oder auch nur dem
+Sinn nach entnommen wurden, sind durch Angaben der Herkunft kenntlich
+gemacht. Die vorliegende Arbeit wurde bisher in keinem anderen Kontext
+als Prüfungsleistung vorgelegt. \vspace{3em}
+
+\noindent Frankfurt / M., 1. September 2016
+
+\end{document}
