@@ -26,13 +26,22 @@ header-includes:
 # Einleitung
 \vspace{-1.25em}
 
+- Ein Streit letztendlich darum, was WPh ausmacht und wie man sie betreiben sollte.
+- Verwirrung über den Status eines Projekts oder Ergebnisses: historisch oder philosophisch (@sturm2013)
+
+
+
 Von @burian1977 ausgehend werde ich eine seiner Thesen an einem wissenschaftsphilosophischen Fall exemplifizieren. Burian schreibt [-@burian1977, S. 28-31], dass das von Giere [-@giere1973] ins Spiel gebrachte *criterion of resemblance* mehr impliziert als dieser eingesteht: Giere ist der Meinung, dass die Theorien, die die Wissenschaftsphilosophie (WPh) betrachtet, den realen Theorien der Wissenschaften ähnlich sein müssen – Wissenschaftsphilosophie muss in einen verbesserten Kontakt zur realen Wissenschaft gebracht werden um nicht irrelevant zu sein. Dafür können historische Untersuchungen zwar nützlich sein, sie stellen aber keine notwendige Bedingung für gute WPh dar. Relevante WPh bekommt man auch, wenn man heutige Wissenschaft und ihre Tätigkeiten untersucht.
  
-Burian meint nun, dass besagte Kriterium immer impliziert, dass der Philosoph auf historische Untersuchungen angewiesen ist, weil gegenwärtige wissenschaftliche Theorien nicht einfach irgendetwas Gegebenes sind. Der Philosoph arbeitet also immer mit idealisierten Idealisierungen, d.i. er arbeitet immer mit idealisierten Versionen (rationalen Rekonstruktionen) wissenschaftlicher Theorien, welche selber immer idealisiert sind (S. 29). Burian fasst zusammen:
+Burian meint nun, dass besagtes Kriterium immer impliziert, dass der Philosoph auf historische Untersuchungen angewiesen ist, weil gegenwärtige wissenschaftliche Theorien nicht einfach irgendetwas Gegebenes sind. Der Philosoph arbeitet also immer mit idealisierten Idealisierungen, d.i. er arbeitet immer mit idealisierten Versionen (rationalen Rekonstruktionen) wissenschaftlicher Theorien, welche selber immer idealisiert sind (S. 29). Burian fasst zusammen:
  
 > "In short, the 'actual scientific theories' which philosophers' reconstructions must resemble, are themselves, inevitably, constructs, constructs whose correspondence to and bearing on the actual practice, thinking, and writing of scientists require empirical – dare I say historical? – evaluation." [@burian1977, S. 30]
 
-Die Stärke dieser Auffassung ist gerade, dass sie die Rolle der Philosophie im Unterschied zur der der Wissenschaft ernst nimmt. Sie besteht u.a. darin, den philosophischen Gehalt einer wissenschaftlichen Theorie zu offenbaren. Zum Beispiel den positivistischen Charakter der "offiziellen Philosophie der Quantenmechanik". Denn die "gewöhnliche Auffassung der Quantenmechanik [nach Bohr und Heisenberg] enthält gerade in ihren Grundlagen einen großen Teil positivistischer Philosophie." [Vgl. @bunge1956, S. 496] Die Frage ist nun, welchen Status historische Untersuchungen in diesem Unterfangen haben. Sind Sie notwendig, hinreichend, unterstützend, pädagogisch, überflüssig oder gar irreführend? Und eine weitere Möglichkeit sollte in Betracht gezogen werden, namentlich die, dass die Frage falsch gestellt sein könnte. Vielleicht muss sie in eine Reihe genauerer Fragen zergliedert werden: Unter welchen Umständen ist es notwendig, für die philosophische Rekonstruktion einer wissenschaftlichen Theorie historische Untersuchungen anzustellen? Welche Form sollten solche Untersuchungen haben (im Unterschied zum Beispiel zur Untersuchung des Historikers)? Warum sind sie notwendig?
+Die Stärke dieser Auffassung ist gerade, dass sie die Rolle der Philosophie im Unterschied zur der der Wissenschaft ernst nimmt. Wenn Philosophie allgemein, einem Diktum Hegels zu Folge, "ihre Zeit in Gedanken erfaßt" ist, dann ist Wissenschaftsphilosophie ein Fokus auf und Erfassen von Wissenschaft. Sie kann in ihrer Rolle den philosophischen Gehalt einer wissenschaftlichen Theorie offenbaren.
+
+
+
+Zum Beispiel den positivistischen Charakter der "offiziellen Philosophie der Quantenmechanik". Denn die "gewöhnliche Auffassung der Quantenmechanik [nach Bohr und Heisenberg] enthält gerade in ihren Grundlagen einen großen Teil positivistischer Philosophie." [Vgl. @bunge1956, S. 496] Die Frage ist nun, welchen Status historische Untersuchungen in diesem Unterfangen haben. Sind Sie notwendig, hinreichend, unterstützend, pädagogisch, überflüssig oder gar irreführend? Und eine weitere Möglichkeit sollte in Betracht gezogen werden, namentlich die, dass die Frage falsch gestellt sein könnte. Vielleicht muss sie in eine Reihe genauerer Fragen zergliedert werden: Unter welchen Umständen ist es notwendig, für die philosophische Rekonstruktion einer wissenschaftlichen Theorie historische Untersuchungen anzustellen? Welche Form sollten solche Untersuchungen haben (im Unterschied zum Beispiel zur Untersuchung des Historikers)? Warum sind sie notwendig?
 
 
 
@@ -41,7 +50,19 @@ Die Stärke dieser Auffassung ist gerade, dass sie die Rolle der Philosophie im 
 # Ronald Gieres Kritik an der Notwendigkeit der Verbindung von WG und WPh 
 \vspace{-1.25em}
 
-Was genau lehnt Giere ab?
+- Was genau lehnt Giere ab?
+    + naturalistic fallacy [@schindler2013, S. 4138], d.i. der Fehlschluss, dass historische (historiographische?) *Fakten* der Wissenschaft, philosophische *Normen* der Wissenschaft stützen könnten. "how can 'what is' have any bearing on 'what ought to be'?"
+    + Irrelevanz: WG ist nicht notwendig für die philosophische Erforschung von Wissenschaft, gegenwärtige Wissenschaft dient dazu genauso
+        * Kommentar von Schindler: As several authors have pointed out, however, many questions about the nature of science (such as theory appraisal) do require the study of the diachronic dimension of science (McMullin 1974; Burian 1977).
+
+- Worüber reden wir, wenn wir von Wissenschaftsgeschichte reden?
+    + Geschichte als die Vergangenheit, oder 
+    + Geschichte als Disziplin
+    + siehe dazu auch Laudan 1977 (Progress and its problems: Towards a theory of scientific growth), der laut @schindler2011 auf diese Ambiguität hinweist.
+
+   
+
+
 
 Warum lehnt Giere es ab?
 
@@ -49,19 +70,19 @@ Wird die philosophische Position Gieres von Burian ausreichend erkannt bzw. darg
 
 Was passiert, wenn logische Empiristen "Form, Inhalt oder Methoden von Wissenschaften" ableiten? Was kann dabei herauskommen? Was sind die Grundannahmen des logischen Empirismus und wie wirken sich diese auf eine Erklärung wissenschaftlicher Theorie und Praxis aus?
 
-Eine Konferenz zur Einheit von WG und WPh (University of Minnesota 1969), deren Ergebnis Giere in [-@giere1973] rezensiert, vermittelt ihm den Eindruck einer gegenwärtigen WPh, die von der Beschäftigung mit formalen Systemen dominiert ist, die wenig Relevanz für reale wissenschaftliche Theorien oder Praktiken haben. In den Diskussionen rund um dieses Problem wird die Wissenschaftsgeschichte oft als *das* oder zumindest als *ein* Ausweg aus dieser Befangenheit vorgeschlagen. Giere lehnt diese Konsequenz ab. Zunächst, so Giere, ist es gar nicht der Fall, dass logische Empiristen jemals gedacht hätten, dass Form, Inhalt oder Methoden von Wissenschaft allein durch formale Logik abgeleitet werden können. Vielmehr bestand die Aufgabe des Philosophen immer in der "rationalen Rekonstruktion und Erklärung" der Theorien, Methoden und Meta-Konzepte, wie er sie in *realer* wissenschaftlicher Praxis findet (vgl. @giere1973, S. 290).
+McMullin behauptet, dass die Wissenschaftsgeschichte entscheidend ist, um die Ontologie einer Theorie zu bestimmen, weil nur die zeitliche Entwicklung einer Theorie ihre ontologischen Bekenntnisse offenbaren kann (S. 289). Giere lehnt dieses Argument für WG aus zwei Gründen ab: erstens meint, dass die zeitliche Entwicklung einer Theorie keine entscheidende Rolle für die Klärung ihrer Ontologie spielt. Dieser erste Grund ist mir allerdings schleierhaft geblieben. Dass erfolgreiche Voraussagen die ontologische Aussage stützten, liegt laut Giere daran, dass gültiges Testen einer Theorie erfordert, dass die Theorie nicht aufgestellt wurde, um die Daten zu erklären.
+
+Eine Konferenz zur Einheit von WG und WPh (University of Minnesota 1969), deren Ergebnis Giere in [-@giere1973] rezensiert, vermittelt ihm den Eindruck einer gegenwärtigen WPh, die von der Beschäftigung mit formalen Systemen dominiert ist, die wenig Relevanz für reale wissenschaftliche Theorien oder Praktiken haben. In den Diskussionen rund um dieses Problem wird die Wissenschaftsgeschichte oft als *das* oder zumindest als *ein* Ausweg aus dieser Befangenheit vorgeschlagen. Giere lehnt diese Konsequenz ab. Zunächst, so Giere, ist es gar nicht der Fall, dass logische Empiristen jemals gedacht hätten, dass Form, Inhalt oder Methoden von Wissenschaft allein durch formale Logik abgeleitet werden können. Vielmehr bestehe die Aufgabe des Philosophen immer in der "rationalen Rekonstruktion und Erklärung" der Theorien, Methoden und Meta-Konzepte, wie er sie in *realer* wissenschaftlicher Praxis findet (vgl. @giere1973, S. 290).
 Für eine angemessene "rationale Rekonstruktion" der Theorien realer wissenschaftlicher Praxis ist zunächst nur genaueres Augenmerk auf reale Wissenschaft gefragt, nicht das Anstellen oder Einbeziehen historischer Untersuchungen wissenschaftlicher Theorie und Praxis [vgl. @giere1973, S. 291].
 
 > "The most direct response would be to develop more flexible logical and mathematical tools, to pay closer attention to actual scientific theories, and to worry more about the nature of philosophical conclusions about science." [@giere1973, S. 291]
 
-Giere behauptet allerdings nicht, dass Philosophen die Wissenschaft und wissenschaftliche Praktiken der Vergangenheit ignorieren sollten. Vielmehr geht es ihm um den Unterschied der *Art* von Geschichte wie sie einerseits für Historiker paradigmatisch ist, zu der Art andererseits, von der Philosophen etwa ableiten. Der Philosoph kann nicht *ohne weiteres* nützliche Schlüsse aus der oft komplexen, auf spezifische Ereignisse fokussierten Geschichte der Entwicklung einer Theorie des Historikers ziehen [vgl. @domski2010, S. 2f.].
+Giere behauptet allerdings nicht, dass Philosophen die Wissenschaft und wissenschaftliche Praktiken der Vergangenheit ignorieren sollten. Vielmehr geht es ihm um den Unterschied der Art von Geschichte wie sie für Historiker paradigmatisch ist, zu der Art, von der Philosophen etwas ableiten. Der Philosoph kann nicht *ohne weiteres* nützliche Schlüsse aus der oft komplexen, auf spezifische Ereignisse fokussierten Geschichte der Entwicklung einer Theorie des Historikers ziehen [vgl. @domski2010, S. 2f.]. Statt die WPh
 
 
-Giere schlägt als Konsequenz eine Taxonomie der WPh vor, in der ihre Bereiche entlang von Problemen nicht Methoden gegliedert sind. Den Fokus legt er auf drei Hauptproblemfelder. Erstens die Struktur von (theoretischem) Wissen, zweitens die Absicherung (validation) von Wissensansprüchen und drittens die Strategie und Taktik der Forschung. Es sind Probleme die sowohl für spezielle Theorien und Wissenschaften, als auch für alle Theorien und alle Wissenschaften allgemein diskutiert werden können. Er geht dann dazu über, die Rolle von Geschichte für jedes der Probleme abzuwägen [vgl. @giere1973, S. 293]. (Let us consider the possible bearing of history of science of each of these problem areas.)
+Giere schlägt als Konsequenz eine Taxonomie der WPh vor, in der ihre Bereiche entlang von Problemen nicht Methoden gegliedert sind. Den Fokus legt er auf drei Hauptproblemfelder. Erstens die Struktur von (theoretischem) Wissen, zweitens die Absicherung (validation) von Wissensansprüchen und drittens die Strategie und Taktik der Forschung. Es sind Probleme die sowohl für spezielle Theorien und Wissenschaften, als auch für alle Theorien und alle Wissenschaften allgemein diskutiert werden können. Er geht dann dazu über, die Rolle von Geschichte für jedes der Probleme abzuwägen [vgl. @giere1973, S. 293].
 
-> "Do general theses about the struckture of theories have to fit historical cases? I think not. If philosophy is to maintain its critical role, one may even refuse to accord the title 'theory' to something many scientists now call a theory. Indeed, all currently held theories may be judged somewhat defective, though not too much so else the claim to be talking about scientific theories becomes problematical. Philosophical theses cannot be completely *a priori*." [@giere1973, S. 293]
 
-Worin bestehen hier These und Gegenthese? Wer sagt, das generelle Thesen über die Struktur von Theorien mit historischen Fällen übereinstimmen müssen und wie ist das gemeint?
 
 Interessanter ist Gieres Einwand gegen die These, dass Theorien historische Entitäten sind und zu ihrem Verständnis Geschichte notwendig. Die Struktur einer Theorie kann nicht auf eine einzelne logische oder mathematische Struktur reduziert werden. Giere lehnt dieses Argument ab, weil die Theorien von Wissenschaftlern ja auch verstanden werden, obwohl sie sie von Texten lernen die keine Geschichte beinhalten. Man müsste also behaupten, das Wissenschaftler die Theorien in ihren Feldern nicht wirklich verstehen und nicht von Standardtexten lernen können. Aber genau das ließe sich tatsächlich behaupten: kein Wissenschaftler lernt Theorien nur aus Texten, wahrscheinlich nicht einmal hauptsächlich aus Texten, und in der Tat "verstehen" Wissenschaftler ihre Theorien nicht, d.i. nicht so, wie Philosophen sie verstehen bzw. verstehen wollen.
 
@@ -80,6 +101,7 @@ McMullin liegt falsch, wenn er behauptet, dass Kuhns Schlussfolgerung, dass Para
 # Burians Argument für die Notwendigkeit eines historischen Ansatzes der WPh
 \vspace{-1.25em}
 
+
 - stellt Burian Gieres Argument angemessen dar?
 - erfüllt er die Forderung Gieres?
 - Was genau bedeutet die Forderung Gieres?
@@ -87,8 +109,6 @@ McMullin liegt falsch, wenn er behauptet, dass Kuhns Schlussfolgerung, dass Para
 Burian hält dagegen, dass das bereits historische Untersuchung impliziert, weil reale Wissenschaft und ihre Theorien selber nichts Gegebenes sind. Müsste man Burians Position vielleicht modifizieren indem man genau angibt, *in welcher Weise* "Geschichte" einbezogen werden muss. Ist es nicht vom Erkenntnisinteresse abhängig, ob ich in Fragestellung und/oder ihrer Beantwortung (u.a.) historisch argumentiere?
 
 
-
-> At the moment there are many philosophers of science, particularly among the younger generation, who are following just this course. Moreover, this approach seems to be yielding dividends, especially in the philosophy of physics and in inductive logic." [@giere1973, S. 291]
 
 Giere führt unter anderem @glymour1971 für ein gutes Beispiel für relevante Wissenschaftsphilosophie an. Ich kann dieses Paper (in der gegebenen Zeit die ich für diese Arbeit habe) unmöglich verstehen. Aber es scheint mir doch legitim zu sein, dass Glymour über Fragen des Determinismus und der Quantenmechanik schreibt, ohne historisch zu argumentieren / ohne Referenz auf die Geschichte dieser Fragen bzw. auf die von ihnen in den Blick genommen Theorien. Allerdings, schauen wir genauer hin, so stellen wir gleich im ersten Satz eine historische Behauptung von Glymour fest:
 
@@ -134,7 +154,8 @@ Beobachter-Problem?...
 # Fazit: Synthese der Positionen Gieres und Burians
 \vspace{-1.25em}
 
-
+- Dialektik aus faktischer Sicht und normativer Sicht [@schindler2011, S. 4139]
+- dialektischer Naturalismus als Lösung?
 
 Abschließend soll im Folgenden für die These argumentiert werden, dass Burian richtig erkannt hat, dass Giere mit dem Blick auf "wirkliche", "reale" Wissenschaft schon ein in Teilen historischen Ansatz impliziert, dass Burian aber, und hier müssen wir Giere recht geben, mit seinem Vorschlag keine Sensibilität für die unterschiedlichen Arten von Geschichte aufweist und ein eher mechanistisches, unklares Vorschlag für das Verhältnis zwischen den Disziplinen macht.
 Also Giere ist undialektisch, indem er die historischen Fälle in den Arbeiten von Philosophen zu Zufällen erklärt: diese hätten sich genauso gut mit gegenwärtigen Fällen beschäftigen können (strange indeed)
@@ -147,7 +168,7 @@ Die Philosophie kann sich nur geschichtsphilosophisch mit der Wissenschaft ausei
 
 Jeder Form von Geschichtsschreibung liegt eine explizite oder implizite, bewusste oder unbewusste Geschichtsphilosophie zugrunde. Genauso verhält es sich mit der Philosophie: jede philosophische Aussage lässt sich, einer oder mehreren philosophischen Positionen zuordnen. So billig diese Feststellung ist, so basal ist sie. Um die Probleme in den hier diskutierten Texten angemessen bewerten, entwickeln und lösen zu können, wird es hilfreich sein, die Probleme selbst philosophisch und philosophiehistorisch einzuordnen. Aber auch historisch?
 
-> "Das was ist zu begreifen, ist die Aufgabe der Philosophie, denn das was ist, ist die Vernunft. Was das Individuum betrifft, so ist ohnehin jedes ein Sohn seiner Zeit, so ist auch die Philosophie ihre Zeit in Gedanken erfaßt." (Hegel-W Bd. 7. S. 25. Georg Wilhelm Friedrich Hegel: Werke. Auf der Grundlage der Werke von 1832-1845 neu edierte Ausgabe. Redaktion Eva Moldenhauer und Karl Markus Michel, Frankfurt a. M.: Suhrkamp, 1979 (Theorie-Werkausgabe). http://www.zeno.org/Philosophie/M/Hegel,+Georg+Wilhelm+Friedrich/Grundlinien+der+Philosophie+des+Rechts/Vorrede)
+
 
 
 Burian argumentiert, dass die Problemkontexte in denen Wissenschaftler stehen und die Entitäten (Gesetzesaussagen, induktive Argumente, Hypothesen, Erklärungen, Theorien, Theorieversionen, usw.) mit denen sie arbeiten, Gegenstand historischer Forschung sind. Insofern die philosophische Bewertung bestimmter wissenschaftlicher Argumente, Entscheidungen, Erklärungen, Prozeduren und Theorien besagte Problemkontexte und wissenschaftliche Entitäten (oder epistemische Dinge wie Burian mit Rheinberger sehr viel später sagen wird, vgl. @burian2001, S. 391, Fn. 6) als Input verwendet, sind historische Untersuchungen von zentraler Bedeutung für die Wissenschaftsphilosophie [-@burian1977, S. 38]. Burian hat hier vor allem die Wahl zwischen zwei auseinandergehenden rationalen Rekonstruktionen z.B. einer Theorie im Blick. Um Anachronismus und Irrelevanz zu vermeiden, sollte die Wahl nicht allein danach getroffen werden, welche Rekonstruktion besser zum Ziel oder philosophischen Standpunkt passt, sondern auch nach der besten verfügbaren Interpretation der historischen Daten.
@@ -204,7 +225,7 @@ Mit diesen jüngsten Darstellungen der Logik des Unterstützungsgrad einer Theor
 
 <!---
 
-################################### Zitate ################################### 
+################################### ZITATE ################################### 
 
 > "Ohne Sinnlichkeit würde uns kein Gegenstand gegeben und ohne Verstand keiner gedacht werden. Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind. Daher ist es eben so nothwendig, seine Begriffe sinnlich zu machen (d. i. ihnen den Gegenstand in der Anschauung beizufügen), als seine Anschauungen sich verständlich zu machen (d. i. sie unter Begriffe zu bringen). Beide Vermögen oder Fähigkeiten können auch ihre Functionen nicht vertauschen. Der Verstand vermag nichts anzuschauen und die Sinne nichts zu denken. Nur daraus, daß sie sich vereinigen, kann Erkenntniß entspringen." (@kant1998, A51/B75)
 
@@ -226,13 +247,24 @@ Mit diesen jüngsten Darstellungen der Logik des Unterstützungsgrad einer Theor
 > "Nur Feyerabend sagt deutlich, daß die Synthese zwischen Poppers Auffassung, die Wissenschaft werde durch eine kritische Diskussion alternativer Ansichten gefördert, und der Kuhnschen Feststellung von der Beharrlichkeit der Wissenschaft in der Behauptung von Lakatos, daß Entwicklung und Beharrlichkeit immer nebeneinander existieren, nicht neu ist. Er verweist auf die Geschichte der Philosophie und hebt hervor: 'Und die Synthese ist das Wesen des dialektischen Materialismus, so wie er in den Schriften von Engels, Lenin und Trotzky formuliert vorliegt. Unter "analytischen" oder "empirischen" Philosophen von heute, die immer noch allzusehr unter dem Einfluß des Wiener Kreises stehen, sind diese Dinge nur wenig bekannt. *Für sie* handelt es sich also in der Tat um echte, wenn auch sehr verspätete "Entdeckungen".' (S. 204)" [@horz1976, S. 751]
 
 
+*********************************** ENGELS ***********************************
+
+> "Auch hier hat die Philosophie der Geschichte, des Rechts, der Religion usw. darin bestanden, daß an die Stelle des in den Ereignissen nachzuweisenden wirklichen Zusammenhangs ein im Kopf des Philosophen gemachter gesetzt wurde, daß die Geschichte im ganzen wie in ihren einzelnen Teilstücken gefaßt wurde als die allmähliche Verwirklichung von Ideen, und zwar natürlich immer nur der Lieblingsideen des Philosophen selbst. Die Geschichte arbeitete hiernach unbewußt, aber mit Notwendigkeit, auf ein gewisses, von vornherein feststehendes ideelles Ziel los, wie z.B. bei Hegel auf die Verwirklichung seiner absoluten Idee, und die unverrückbare Richtung auf diese absolute Idee bildete den Innern Zusammenhang in den geschichtlichen Ereignissen. An die Stelle des wirklichen, noch unbekannten Zusammenhangs setzte man somit eine neue - unbewußte oder allmählich zum Bewußtsein kommende - mysteriöse Vorsehung. Hier galt es also, ganz wie auf dem Gebiet der Natur, diese gemachten künstlichen Zusammenhänge zu beseitigen durch die Auffindung der wirklichen; eine Aufgabe, die schließlich darauf hinausläuft, die allgemeinen Bewegungsgesetze zu entdecken, die sich in der Geschichte der menschlichen Gesellschaft als herrschende durchsetzen." (S. 296.) ( Friedrich Engels: "Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie" in: Karl Marx/Friedrich Engels - Werke. (Karl) Dietz Verlag, Berlin. Band 21, 5. Auflage 1975, unveränderter Nachdruck der 1. Auflage 1962, Berlin/DDR. S. 291/307.)(http://www.mlwerke.de/me/me21/me21_291.htm)
+
+
+Zum Ende der Philosophie:
+    
+> "Bei allen Philosophen ist grade das "System" das Vergängliche, und zwar grade deshalb, weil es aus einem unvergänglichen Bedürfnis des Menschengeistes hervorgeht: dem Bedürfnis der Überwindung aller Widersprüche. Sind aber alle Widersprüche ein für allemal beseitigt, so sind wir bei der sogenannten absoluten Wahrheit angelangt, die Weltgeschichte ist zu Ende, und doch soll sie fortgehn, obwohl ihr nichts mehr zu tun übrigbleibt - also ein neuer, unlösbarer Widerspruch. Sobald wir einmal eingesehn haben - und zu dieser Einsicht hat uns schließlich niemand mehr verhelfen als Hegel selbst -, daß die so gestellte Aufgabe der Philosophie weiter nichts heißt als die Aufgabe, daß ein einzelner Philosoph das leisten soll, was nur die gesamte Menschheit in ihrer fortschreitenden Entwicklung leisten kann - sobald wir das einsehn, ist es auch am **Ende mit der ganzen Philosophie im bisherigen Sinn des Worts**. Man läßt die auf diesem Weg und für jeden einzelnen unerreichbare "absolute Wahrheit" laufen und jagt dafür den erreichbaren relativen Wahrheiten nach auf dem Weg der positiven Wissenschaften und der Zusammenfassung ihrer Resultate vermittelst des dialektischen Denkens. Mit Hegel schließt die Philosophie überhaupt ab; einerseits weil er ihre ganze Entwicklung in seinem System in der großartigsten Weise zusammenfaßt, andrerseits weil er uns, wenn auch unbewußt, den Weg zeigt aus diesem Labyrinth der Systeme zur wirklichen positiven Erkenntnis der Welt." (S. 270) (http://www.mlwerke.de/me/me21/me21_265.htm)
+
+*******************************************************************************
+
+
+> "Das was ist zu begreifen, ist die Aufgabe der Philosophie, denn das was ist, ist die Vernunft. Was das Individuum betrifft, so ist ohnehin jedes ein Sohn seiner Zeit, so ist auch die Philosophie ihre Zeit in Gedanken erfaßt." (Hegel-W Bd. 7. S. 25. Georg Wilhelm Friedrich Hegel: Werke. Auf der Grundlage der Werke von 1832-1845 neu edierte Ausgabe. Redaktion Eva Moldenhauer und Karl Markus Michel, Frankfurt a. M.: Suhrkamp, 1979 (Theorie-Werkausgabe). http://www.zeno.org/Philosophie/M/Hegel,+Georg+Wilhelm+Friedrich/Grundlinien+der+Philosophie+des+Rechts/Vorrede)
 
 
 
 
-
-
-################################### Fragen ################################### 
+################################### FRAGEN ################################### 
 
 - Worauf will Burian eigentlich hinaus?
 - Will er die WPh verbessern?
@@ -295,6 +327,12 @@ An diese Stelle dachte @hanson1962, als er über das Verhältnis zwischen WPh un
 
 
 
+
+Generelle Thesen über die Struktur von Theorien müssen nicht mit historischen Fällen übereinstimmen. Die kritische Rolle der Philosophie bestehe gerade darin, nicht nach der Meinung der Wissenschaftler etwas eine Theorie zu nennen. Philosophische Thesen können nicht voll und ganz *a priori* sein...
+
+> "Do general theses about the struckture of theories have to fit historical cases? I think not. If philosophy is to maintain its critical role, one may even refuse to accord the title 'theory' to something many scientists now call a theory. Indeed, all currently held theories may be judged somewhat defective, though not too much so else the claim to be talking about scientific theories becomes problematical. Philosophical theses cannot be completely *a priori*." [@giere1973, S. 293]
+
+Worin bestehen hier These und Gegenthese? Wer sagt, das generelle Thesen über die Struktur von Theorien mit historischen Fällen übereinstimmen müssen und wie ist das gemeint?
 
 
 -->

@@ -304,7 +304,7 @@ Was ist von Burians Matrix zu halten? Wie dialektisch/undialektisch ist sie? Ist
 
 ## (iii) Difficulties in the Ongoing Debate (20--21)
 - Logizistien beschäftigen sich hauptsächlich mit *EE*, d.i. sie betreiben in erster Linie eine evaluative Epistemologie.
-- in ihrer empiristisch-epistemologischen Tradition wird die Genese einer Theorie als irrelevant für die epistemische Bewertung der Theorie als fertiges Produkt angesehen
+- in ihrer empiristisch-epistemologischen Tradition wird die Genese einer Theorie als irrelevant für die epistemische Bewertung der Theorie als fertiges Produkt angesehen (aufgrund der Angst vor der genetic fallacy)
 - nur logische und semantische Beziehungen zwischen Beweisaussagen und theoretischen Aussagen haben epistemisches Gewicht
 - diese beiden epistemischen Ansprüche werden von @musgrave1974 bestritten, was die (zur Zeit Burians) laufende Debatte auf drei Weisen verkomplizieren wird:
   1. suspect *ab initio*: Für Philosophen, die die historizistischen Thesen Burians unterschreiben, werden logizisitische Ansätze, die Fallstudien explizit unter Absehung von genetischen und zeitlichen Aspekten rekonstruieren, von vorneherein verdächtig. 
